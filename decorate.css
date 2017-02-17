@@ -1,0 +1,26 @@
+*{
+	font-size:20px;
+}
+#main{
+	width:100%;
+}
+#main td{
+	border:2px red solid;
+	vertical-align:middle;
+	text-align:center;
+}
+#main tr:nth-child(1) td:nth-child(1){
+	width:200px;
+	line-height:200%;
+}
+#tfooter{
+	height:50px;
+}
+#tfooter div{
+	display:inline-block;
+	margin:0px 20px 0px 20px;
+}
+#cimg{
+	height:400px;
+	width:auto;
+}
